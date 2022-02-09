@@ -1,4 +1,4 @@
-#whats{	
+.whats{	
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
@@ -9,10 +9,29 @@
 	position:fixed; 
 	width:60px;
 	height:60px;
-	bottom:25px;
+	bottom:65px;
 	right:25px;
 }
 
+.pulandinho {
+	animation-name: pulandinho;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: ease-out;
+	animation-delay: 1s;	
+}
+
 .icone-whats {
-	margin-top:16px
+	margin-top:16px;
+	color: white;
+}
+.icone-whats:hover {
+	color: white;	
+}
+
+@keyframes pulandinho {
+	0% {bottom: 65px; background-color: #25d366;}
+	90% {bottom: 65px; background-color: #25d366;}
+	100% {bottom: 75px; background-color: #09f05e;}
 }
