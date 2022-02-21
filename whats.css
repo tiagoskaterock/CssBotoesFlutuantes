@@ -13,6 +13,10 @@
 	right:25px;
 }
 
+.whats:hover {
+	opacity: 0.8;
+}
+
 .pulandinho {
 	animation-name: pulandinho;
 	animation-duration: 4s;
