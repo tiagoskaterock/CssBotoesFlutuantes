@@ -1,5 +1,5 @@
-# botao_flutuante_whatsapp
-Botão flutuante de Whatsapp para usar no seu site, utiliza font awesome, PHP, CSS e HTML
+# Botões Flutuantes para usaar no  website
+Botão flutuante de Whatsapp, Spotify para usar no seu site, utiliza font awesome, PHP, CSS e HTML
 Apenas importar o código PHP e CSS n o seu projeto e fazer alguns ajustes necessários, se for o caso do seu projeto.
 Adicionada animação que faz o botão pular e mudar de cor a cada 4 segundos, chamando a atenção do usuário de forma discreta.
 
